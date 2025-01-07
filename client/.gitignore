@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Production build
+/build
+
+# Testing
+/coverage
+
+# Misc
+.DS_Store
